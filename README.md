@@ -1,5 +1,5 @@
 # PsxLib
-A small and light lib for ESP32 and Ps2 Controller
+A simply, small and light lib for Arduino, ESP8266, ESP32 & c. for Ps2 Controller
 
 To Use with PS1 and PS2 GamePad controllers with Arduino & c., Esp8266, Esp32 etc.
 A light lib original written by: Kevin Ahrendt June 22nd, 2008 and modified following also libs of Bill Porter and Kompanets Konstantin (aka I2M)
