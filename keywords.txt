@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map PsxLib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Psx		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setupPins 		KEYWORD2
+read			KEYWORD2
+newButtonState	KEYWORD2
+buttonNewState	KEYWORD2
+button			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+PSB_SELECT		LITERAL1
+PSB_L3			LITERAL1
+PSB_R3			LITERAL1
+PSB_START		LITERAL1
+PSB_PAD_UP		LITERAL1
+PSB_PAD_RIGHT	LITERAL1
+PSB_PAD_DOWN	LITERAL1
+PSB_PAD_LEFT	LITERAL1
+PSB_L2			LITERAL1
+PSB_R2			LITERAL1
+PSB_L1			LITERAL1
+PSB_R1			LITERAL1
+PSB_TRIANGLE	LITERAL1
+PSB_CIRCLE		LITERAL1
+PSB_CROSS		LITERAL1
+PSB_SQUARE		LITERAL1
+PSB_RSTIK_LEFT	LITERAL1
+PSB_RSTIK_DOWN	LITERAL1
+PSB_RSTIK_RIGHT	LITERAL1
+PSB_RSTIK_UP	LITERAL1
+PSB_LSTIK_LEFT	LITERAL1
+PSB_LSTIK_DOWN	LITERAL1
+PSB_LSTIK_RIGHT	LITERAL1
+PSB_LSTIK_UP	LITERAL1
